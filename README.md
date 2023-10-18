@@ -2,6 +2,10 @@
 
 ## CS Student
 
+
+Interested in Java, DSA etc
+
+I am interested in your mom
 <!--
 **XantimaX/XantimaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
