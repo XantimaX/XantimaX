@@ -1,4 +1,4 @@
-# Hi there 👋, I am Adithya Nandukumar
+# Hi there 👋, I am Adithya Nandakumar
 
 ## CS Student
 
