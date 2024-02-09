@@ -3,6 +3,9 @@
 ## CS Student
 
 
-Interested in Java, DSA etc
+Learning Web Development and DSA
 
-I am interested in programming, gaming and other stuff
+Languages Known :
+Java, Python,C
+
+
