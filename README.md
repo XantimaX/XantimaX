@@ -3,6 +3,6 @@
 ## CS Student
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,linux,html,css)](https://skillicons.dev)
 
 
