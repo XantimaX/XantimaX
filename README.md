@@ -3,9 +3,6 @@
 ## CS Student
 
 
-Learning Web Development and DSA
-
-Languages Known :
-Java, Python,C
+[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
 
